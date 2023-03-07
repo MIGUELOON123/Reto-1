@@ -1,0 +1,14 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.title{
+    background-color: #5A3A55;
+    margin: 10px;
+    color: white;
+    text-align: center;
+    border: 50px ;
+}
+.fondo{
+    background-color: #033442 ;
+}
